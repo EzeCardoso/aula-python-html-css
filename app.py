@@ -24,4 +24,3 @@ def exibir_entradas():
     cur = g.bd.execute(sql)
     entradas = []
     return str(entradas)
-
